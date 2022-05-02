@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 - 
-	> I am a 27 years old new developer from Romania
+	> I am a 28 years old new developer from Romania
 - 
 	> Started coding in 2021
 - 
